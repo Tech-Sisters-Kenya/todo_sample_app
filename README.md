@@ -1,7 +1,7 @@
 # todo_sample_app
 This is a simple todo app
 
-This project is in html, js and http as the server
+This project is written in html, js and http as the server
 
 ## How to clone and set your remotes properly
 Learn more abote github remotes [here]()
