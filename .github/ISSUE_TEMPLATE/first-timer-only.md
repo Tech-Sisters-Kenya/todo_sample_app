@@ -1,5 +1,5 @@
 ---
-name: First Timer Only
+name: :sparkles: First Timer Only :sunny:
 about: Create a First timer Only Issue
 title: first-timer-only
 labels: ''
